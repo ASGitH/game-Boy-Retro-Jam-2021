@@ -1,0 +1,34 @@
+;!FILE main.asm
+XL3
+H 7 areas E global symbols
+M main
+O -mgbz80
+S _initializeGame Ref000000
+S _gameCoreLoop Ref000000
+S .__.ABS. Def000000
+A _CODE size 8 flags 0 addr 0
+S _main Def000000
+S XG$main$0$0 Def000006
+S A$main$53 Def000000
+S C$main.c$10$1_0$86 Def000006
+S C$main.c$11$1_0$86 Def000006
+S A$main$58 Def000003
+S A$main$69 Def000006
+S C$main.c$5$0_0$86 Def000000
+S C$main.c$6$1_0$86 Def000000
+S C$main.c$8$1_0$86 Def000003
+S G$main$0$0 Def000000
+A _DATA size 0 flags 0 addr 0
+A _DABS size 0 flags 8 addr 0
+A _HOME size 0 flags 0 addr 0
+A _GSINIT size 0 flags 0 addr 0
+A _GSFINAL size 0 flags 0 addr 0
+A _CABS size 0 flags 8 addr 0
+T 00 00 00
+R 00 00 00 00
+T 00 00 00 CD 00 00
+R 00 00 00 00 02 04 00 00
+T 03 00 00
+R 00 00 00 00
+T 03 00 00 CD 00 00 18 FB
+R 00 00 00 00 02 04 01 00

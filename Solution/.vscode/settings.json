@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "types.h": "c",
+        "malloc.h": "c",
+        "map_library.h": "c",
+        "rand.h": "c",
+        "string.h": "c",
+        "playertd.h": "c",
+        "gb.h": "c",
+        "gameconfiguration.h": "c",
+        "player.h": "c",
+        "headsupdisplaymb.h": "c",
+        "guardtd.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
