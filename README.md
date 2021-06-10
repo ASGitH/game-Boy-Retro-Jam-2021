@@ -1,8 +1,8 @@
-# [Retro Jam 2021](https://asgith.github.io/retro-jam-2021-page)
+# [Retro Jam 2021](https://asgith.github.io/game-boy-retro-jam-2021-page)
 
 ![alt text](https://asgith.github.io/images/retro-jam-2021.png "Retro Jam 2021 Screenshot")
 
-[Retro Jam 2021](https://asgith.github.io/retro-jam-2021-page) A Game Boy demake/prototype of Bonanza Bros originally released for the Sega Genesis.
+[Retro Jam 2021](https://asgith.github.io/game-boy-retro-jam-2021-page) A Game Boy demake/prototype of Bonanza Bros originally released for the Sega Genesis.
 You can find the link to the submission on [itch.io](https://asernaio.itch.io/bonaza-bros-demake).
 
 Some things I was really proud of making was the A.I for the Guard, looking around and then having this alert phase where he would chase you.
