@@ -7,6 +7,8 @@ void gameCoreLoop();
 
 void performatdelay(UINT8);
 
+void screenTransition();
+
 void textLoadFont();
 
 void textPrintCharBkgOrWin(UINT8 x, UINT8 y, char bkgOrWin, unsigned char chr);

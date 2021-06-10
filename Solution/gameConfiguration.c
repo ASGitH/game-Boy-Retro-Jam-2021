@@ -30,18 +30,16 @@ void gameCoreLoop()
     performatdelay(1);
 }
 
-void initializeHUD()
-{
-    set_win_tiles(0, 0, 20, 2, headsUpDisplayMap);
-
-    move_win(7, 124);
-}
-
 void performatdelay(UINT8 numloops)
 {
     UINT8 i;
 
     for (i = 0; i < numloops; i++) { wait_vbl_done(); }
+}
+
+void screenTransition()
+{
+    
 }
 
 void textLoadFont() 
@@ -121,4 +119,11 @@ void initializeGame()
     SHOW_WIN;
 
     DISPLAY_ON;
+}
+
+void initializeHUD()
+{
+    set_win_tiles(0, 0, 20, 2, headsUpDisplayMap);
+
+    move_win(7, 124);
 }
