@@ -1,6 +1,6 @@
 # [Retro Jam 2021](https://asgith.github.io/game-boy-retro-jam-2021-page)
 
-![alt text](https://asgith.github.io/images/retro-jam-2021.png "Retro Jam 2021 Screenshot")
+![alt text](https://asgith.github.io/images/game-boy/retro-jam-2021.png "Retro Jam 2021 Screenshot")
 
 [Retro Jam 2021](https://asgith.github.io/game-boy-retro-jam-2021-page) A Game Boy demake/prototype of Bonanza Bros originally released for the Sega Genesis.
 You can find the link to the submission on [itch.io](https://asernaio.itch.io/bonaza-bros-demake).
@@ -14,7 +14,7 @@ Latest Update:
   - Logic was created in order to handle the animation changes when the player's state changed (example: jumping -> moving, moving -> shooting and vice versa).
   - Artificial Intelligence was created for the guard. They will turn left/right and if the player is in view, they will move towards them.
 
-![alt text](https://asgith.github.io/images/retro-jam-2021-01.png "Retro Jam 2021 Screenshot")
+![alt text](https://asgith.github.io/images/game-boy/retro-jam-2021-01.png "Retro Jam 2021 Screenshot")
 
 ## How to Play
 
@@ -24,7 +24,7 @@ To Attack: the a button
 
 To Jump: the b button
 
-![alt text](https://asgith.github.io/images/retro-jam-2021-02.png "Retro Jam 2021 Screenshot")
+![alt text](https://asgith.github.io/images/game-boy/retro-jam-2021-02.png "Retro Jam 2021 Screenshot")
 
 ## Miscellaneous
 
